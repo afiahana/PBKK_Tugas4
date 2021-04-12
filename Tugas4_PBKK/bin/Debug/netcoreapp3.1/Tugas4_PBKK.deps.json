@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tugas4_PBKK/1.0.0": {
+        "runtime": {
+          "Tugas4_PBKK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas4_PBKK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
